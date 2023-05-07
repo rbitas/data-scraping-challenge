@@ -1,6 +1,6 @@
 # data-scraping-challenge
 
-*Note: Used this website: https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html to better grasp the function of to_datetime and used https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html to understand iloc function both used in part two*
+*Note: Used this website: https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html to better grasp the function of to_datetime used in part two*
 
 # Part 1: Scrape Titles and Preview Text from Mars News
 
